@@ -1,0 +1,1 @@
+#READ METhis is smart contract source for AAA ERC20 token
